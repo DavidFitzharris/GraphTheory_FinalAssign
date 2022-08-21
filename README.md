@@ -6,9 +6,13 @@ In this assignment we use jupyter notebook to create two notebooks looking into 
 ## Graph Isomorphism Problem
 
 In this notebook we look at a few key areas as outlined by the assignment requirements:
+
 • Definition of graph isomorphism.
+
 • Specification of the Graph Isomorphism Problem.
+
 • Python function to determine whether two graphs are isomorphic.
+
 • Explanation of the main reason computer scientists are interested in the complexity of
 the Graph Isomorphism Problem.
 
@@ -16,9 +20,13 @@ the Graph Isomorphism Problem.
 ## Heap-Sort, A Sorting Algorithm
 
 Here we look at some different sorting algorithms and methods, paying most attention to Heap-Sort
+
 • Explanation of what a rooted binary tree is.
+
 • Overview of how the heap sort algorithm works, with reference to trees.
+
 • Python function implementing Heap Sort.
+
 • Explanation why, in the worst case, heap sort is more efficient than bubble sort.
 
 ## Running in Jupyter Notebook
